@@ -1,0 +1,8 @@
+List of features to add
+Stripe Card Payments
+Stripe and Paypal Refund Buttons
+
+
+List of Bugs to fix
+JWT Token Expiry needs to ask user to log back in when expires
+Remove user login cookie and cart information when JWT expires
