@@ -1,4 +1,4 @@
-import React, { useContext, useRef, useState, useEffect } from "react";
+import React, { useContext, useState, useEffect } from "react";
 import axios from "axios";
 import { Store } from "../utils/Store";
 import Layout from "../components/Layout";
@@ -10,7 +10,7 @@ import { useRouter } from "next/router";
 import { useForm, FormProvider } from "react-hook-form";
 import {
   PayPalButtons,
-  PayPalHostedFieldsProvider,
+  // PayPalHostedFieldsProvider,
   usePayPalScriptReducer,
 } from "@paypal/react-paypal-js";
 import { getError } from "../utils/error";

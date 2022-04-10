@@ -1,16 +1,16 @@
 import React, { useContext, useEffect, useState } from "react";
 import NextLink from "next/link";
-import Toggle from "./Toggle";
+// import Toggle from "./Toggle";
 import Cookies from "js-cookie";
 import { Store } from "../utils/Store";
 import { useRouter } from "next/router";
-const SearchBar = () => {
-  return (
-    <div className="navbar-search-wrapper">
-      <input className="navbar-search-input" placeholder="Search"></input>
-    </div>
-  );
-};
+// const SearchBar = () => {
+//   return (
+//     <div className="navbar-search-wrapper">
+//       <input className="navbar-search-input" placeholder="Search"></input>
+//     </div>
+//   );
+// };
 
 const Navbar = () => {
   const router = useRouter();

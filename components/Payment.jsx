@@ -75,8 +75,8 @@ const Payment = () => {
       {watchPaymentMethod === "paypal" && (
         <div className="cart-card-container">
           <p>
-            When you click 'PAY NOW WITH PAYPAL', you will be redirected to
-            PayPal to complete your order.
+            When you click PAY NOW WITH PAYPAL, you will be redirected to PayPal
+            to complete your order.
           </p>
         </div>
       )}

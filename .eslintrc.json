@@ -1,4 +1,10 @@
 {
-  "env":{"browser":true, "node":true},
-  "extends": ["eslint:recommended","next","next/core-web-vitals"]
+  "env": { "browser": true, "node": true },
+  "extends": ["eslint:recommended", "next", "next/core-web-vitals"],
+  "rules": {
+    "no-unused-vars": "off",
+    "no-undef": "off",
+    "react/jsx-key": "off",
+    "no-empty": "off"
+  }
 }
