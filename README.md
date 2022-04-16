@@ -1,5 +1,5 @@
 Thanks for checking my repository out!
-Just a reminder that this is still a work in progress that I will continue to pushed live unfinished so that people can see the progress :)
+Just a reminder that this is still a work in progress that I will continue to push live unfinished so that people can see the progress :)
 
 NOTE: Due to performance issues each site/page load currently takes around 3 second to run. This is a known issue due to low tier servers in America.
 
@@ -10,13 +10,22 @@ Stack: Next Js, Mongo DB, Express js, Node js
 
 What I Learnt from this project:
 
-Css Grid, Css variables
+Css Grid
+
+Css variables
+
 Storing JSON in cookies
+
 Context API basics - reducers
+
 Next Js - slug, dynamic routing, server-side rendering
+
 Pushing NextJS to production
+
 Understanding CDNs importance - due to slow speed from Netlify's US East server
+
 How little I know :')
+
 How to seed data to MongoDB cloud database
 
 ---
@@ -24,11 +33,17 @@ How to seed data to MongoDB cloud database
 Planned Features:
 
 Implementing Paypal
+
 Implementing Stripe
-Using 3rd Party to store images.
+
+Using 3rd Party to store images
+
 Better mobile responsiveness
+
 User to be able to view orders
+
 Admin Panel and admin users
+
 Charts to show sales/profits/etc
 
 ---
